@@ -12,7 +12,7 @@ in order to comply with the UX guidelines of Android TV.
 * Compile and deploy to your Android TV device.
 
 ## References and How to report bugs
-* [Developer Documentation](http://developer.android.com/tv/index.html)
+* [Android TV Developer Documentation](http://developer.android.com/tv/index.html)
 
 ## How to make contributions?
 Please read and follow the steps in the CONTRIBUTING.md
